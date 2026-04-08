@@ -9,4 +9,4 @@ Sentinel-6 no es solo un modelo 3D; es un sistema de monitoreo. Captura telemetr
 2. **Technical Art:** Activo 3D optimizado con Rigging cinemático para sincronización con datos.
 3. **Conectividad:** Integración con ecosistemas CRM (Salesforce) para flujo de trabajo reactivo.
 
-[Link a la Documentación Técnica Detallada (Notion) ->]
+[Link a la Documentación Técnica Detallada (Notion) -> https://www.notion.so/Digital-Twin-Project-SDD-332899029ec9802aabe4cded61270786?source=copy_link]
